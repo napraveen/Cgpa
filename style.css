@@ -1,5 +1,6 @@
 body{
     background-color: rgba(229, 240, 245, 0.685);
+    
 }
 
 .container
@@ -7,7 +8,6 @@ body{
     width: 500px;
     height: 900px;
     background-color: rgba(154, 204, 227, 0.685);
-    margin-left: 300px;
     border-radius: 50px;
     text-align: center;
     position: absolute;
