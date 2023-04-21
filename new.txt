@@ -48,3 +48,75 @@
 
 //     document.getElementById("result").innerHTML =prp+ec2;
 // }
+
+
+
+
+
+
+
+
+
+    // if (prp in dict)
+    // {
+    //     prp = dict[prp];
+    // }
+    // else{
+    //     prp = Number(prp);
+    // }
+    
+    // if (ec2 in dict)
+    // {
+    //     ec2 = dict[ec2];
+    // }
+    // else{
+    //     ec2 = Number(ec2);
+    // }
+
+    // if (lic in dict)
+    // {
+    //     lic = dict[lic];
+    // }
+    // else{
+    //     lic = Number(lic);
+    // }
+
+    // if (ct in dict)
+    // {
+    //     ct = dict[ct];
+    // }
+    // else{
+    //     ct = Number(ct);
+    // }
+
+    // if (ds in dict)
+    // {
+    //     ds = dict[ds];
+    // }
+    // else{
+    //     ds = Number(ds);
+    // }
+
+    // if (cs in dict)
+    // {
+    //     cs = dict[cs];
+    // }
+    // else{
+    //     cs = Number(cs);
+    // }
+
+    // if (dslab in dict)
+    // {
+    //     dslab = dict[dslab];
+    // }
+    // else{
+    //     dslab = Number(dslab);
+    // }
+
+    // if (eclab in dict)
+    // {
+    //     eclab = dict[eclab];
+    // }
+    // else{
+    //     eclab = Number(eclab);
+    // }
