@@ -1,0 +1,35 @@
+body{
+    background-color: rgba(229, 240, 245, 0.685);
+}
+
+.container
+{
+    width: 500px;
+    height: 900px;
+    background-color: rgba(154, 204, 227, 0.685);
+    margin-left: 300px;
+    border-radius: 50px;
+    text-align: center;
+    position: absolute;
+}
+
+.all-items
+{
+    margin-top: 100px;
+}
+
+input{
+    margin-top: 10px;
+    width:200px;
+    height: 20px;
+    border-color: rgb(188, 180, 180);
+
+    outline: none;
+    border-radius: 7px;
+}
+
+input::placeholder
+{
+    font-size: 13px;
+    padding-left: 10px;
+}
