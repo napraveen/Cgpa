@@ -2,7 +2,7 @@ function calculate()
 {
     let answer, total_credit, cgpa;
     let prp,ec2,lic,ct,ds,cs,dslab,eclab ;
-    let prp_cr = 4, ec2_cr = 3 , lic_cr =3 , ct_cr =3 , ds_cr=3 , cs_cr=3, dslab_cr =2, eclab_cr =1;
+    let prp_cr = 4, ec2_cr = 3 , lic_cr =3 , ct_cr =3 , ds_cr=3 , cs_cr=3, dslab_cr =2, eclab_cr =2;
     var dict = {
         '1' : 1, '2': 2, '3':3, '4':4, '5':5, '6':6, '7':7, '8':8, '9':9, '10':10,
         O : 10,
